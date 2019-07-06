@@ -1,0 +1,4 @@
+1111 abidala macacosa 1.234,23
+2222 macaco prego 12.345,21
+3333 skidale skidule 12.412,11
+
